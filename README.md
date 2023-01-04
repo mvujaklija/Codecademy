@@ -1,4 +1,6 @@
 # Codecademy
 My development path of independent learning of the JAVA programming language
 
-In the branches are the lessons as I progress through the course again separated by chapters and in the main branch are all the codes
+I have already completed this entire course once and received a certificate, but I want to confirm my knowledge before moving on to the JAVA inintermediate course
+
+
